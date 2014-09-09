@@ -1,0 +1,9 @@
+=any line that starts with equals or does not contain equals is ignored
+=unrecognised keys are loaded but never used e.g. #cleanup
+#cleanup=none
+#temp=%CD%\temp\
+#execute=false
+name_0=MarkdownConverter.js
+name_1=marked.js
+name_2=html-entities.js
+name_3=windows-1250.js
